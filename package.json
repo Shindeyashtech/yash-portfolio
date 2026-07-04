@@ -1,0 +1,8 @@
+{
+  "name": "yash-shinde-portfolio",
+  "version": "1.0.0",
+  "description": "Yash Shinde AI/ML Portfolio with Admin Panel + Upstash Redis",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
